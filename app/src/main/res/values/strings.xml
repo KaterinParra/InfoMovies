@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InfoMovies</string>
+    <string name="image_description">Cinema image</string>
+    <string name="movie_title">Cinema title</string>
+    <string name="movie_desc">Movie description</string>
+    <string name="original_language">Original language: %1$s</string>
+    <string name="original_title">Original title: %1$s</string>
+    <string name="popularity">Popularity: %1$f</string>
+    <string name="release_date">Date: %1$s</string>
+    <string name="votes">Vote: %1$f</string>
+
+    <string name="no_load_remote_info">Movies could not be loaded at this time, please try again later</string>
+    <string name="btn_info_local">Load local information</string>
+</resources>
